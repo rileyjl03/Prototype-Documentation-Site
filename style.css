@@ -66,6 +66,14 @@ header {
 	text-align: center;
 }
 
+ul > li {
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+ul > li > ul > li {
+	margin-top: 2%;
+}
 
 /* Navigation
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
